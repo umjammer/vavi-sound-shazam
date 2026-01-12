@@ -1,4 +1,16 @@
-## Shazam in Java
+# vavi-sound-shazam
+
+## Install
+
+## Usage
+
+## References
+
+## TODO
+
+---
+
+## [Original](https://github.com/wsieroci/audio-recognizer)
 
 Roy van Rijn has written wonderful post about Shazam algorithm and how to implement it on our own. To do this he placed many chunks of his project source code, but he did not upload all source code of his application because as he stated:
 
