@@ -1,10 +1,23 @@
+[![Release](https://jitpack.io/v/umjammer/vavi-sound-shazam.svg)](https://jitpack.io/#umjammer/vavi-sound-shazam)
+[![Java CI](https://github.com/umjammer/vavi-sound-shazam/actions/workflows/maven.yml/badge.svg)](https://github.com/umjammer/vavi-sound-shazam/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/umjammer/vavi-sound-shazam/actions/workflows/codeql.yml/badge.svg)](https://github.com/umjammer/vavi-sound-shazam/actions/workflows/codeql.yml)
+![Java](https://img.shields.io/badge/Java-17-b07219)
+
 # vavi-sound-shazam
+
+ 👂️mavenized and library friendly sound detector.
 
 ## Install
 
+ - [maven](https://jitpack.io/#umjammer/vavi-sound-shazam)
+
 ## Usage
 
+ - [sample](src/test/java/TestCase.java)
+
 ## References
+
+ - [original](https://github.com/wsieroci/audio-recognizer)
 
 ## TODO
 
